@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pejal_models/volleyball/orig_normal"
+	"$surfaceprop" "cardboard"
+}
